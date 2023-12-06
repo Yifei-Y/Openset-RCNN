@@ -7,7 +7,7 @@ if __name__ == "__main__":
     parser.add_argument('--image_destination', type=str, help='Path to store images.')
     args = parser.parse_args()
 
-    folders = ['train', 'test_seen', 'test_similar', 'test_novel']
+    folders = ['train_1', 'train_2', 'train_3', 'train_4', 'test_seen', 'test_similar', 'test_novel']
     for folder in folders:
         scene_path = os.path.join(args.dataset_path, folder)
         scene_list = sorted(glob.glob(scene_path + '/scene_*'))
