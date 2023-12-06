@@ -3,7 +3,7 @@
 This is the official pytorch implementation of our RA-L paper "Open-Set Object Detection Using Classification-Free Object Proposal and Instance-Level Contrastive Learning".
 
 Authors: Zhongxiang Zhou, Yifei Yang, Yue Wang, Rong Xiong \
-[Paper](https://ieeexplore.ieee.org/document/10035923) | [Project Page](https://sites.google.com/view/openest-rcnn/)
+[Paper](https://ieeexplore.ieee.org/document/10035923) | [Project Page](https://sites.google.com/view/openset-rcnn/)
 
 ## Abstract
 
