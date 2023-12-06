@@ -44,7 +44,7 @@ bash datasets/opendet2_utils/prepare_openset_voc_coco.sh
 Download train and test images of [GraspNet-1Billion](https://graspnet.net/datasets.html). Unzip and put them under `datasets/graspnet`. Download [annotation files](https://drive.google.com/drive/folders/1mT_MIhleHzEQHJprN2Y_K8gVrF5A79w9?usp=share_link) and put under `datasets/graspnet_os/annotations`. Then run script to organize the images:
 
 ```sh
-bash datasets_remote/openset_rcnn_utils/prepare_graspnet_osod.sh
+bash datasets/openset_rcnn_utils/prepare_graspnet_osod.sh
 ```
 
 Expected dataset structure:
