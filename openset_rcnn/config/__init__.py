@@ -1,0 +1,1 @@
+from .config import add_openset_rcnn_config
